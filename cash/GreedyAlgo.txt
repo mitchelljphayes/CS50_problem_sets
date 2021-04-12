@@ -1,0 +1,10 @@
+get value from user 
+(only accept positive float values over 0.01)
+establish currecy denoms
+check if the value is lower than the largest coin
+if so subtract the value of the largest coin from the total
+increment coin_counter by 1
+in not check against the next coin 
+if so subtract the value of the next largest coin from the total
+increment coin_counter by 1
+(needs to loop back to current coin) then move on 

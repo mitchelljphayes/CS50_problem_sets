@@ -1,0 +1,61 @@
+{
+    "ace": {
+        "@behavioursEnabled": true,
+        "@fontSize": 15,
+        "@keyboardmode": "default",
+        "@showFoldWidgets": true,
+        "@showGutter": true,
+        "@showInvisibles": true,
+        "@showPrintMargin": false,
+        "@theme": "ace/theme/cloud9_night_low_color",
+        "statusbar": {
+            "@show": true
+        }
+    },
+    "clipboard": {
+        "@dontshow": true
+    },
+    "collab": {
+        "@timeslider-visible": false
+    },
+    "cs50": {
+        "simple": {
+            "@previewEnabled": true
+        }
+    },
+    "general": {
+        "@skin": "jett-dark"
+    },
+    "language": {
+        "@continuousCompletion": false,
+        "@enterCompletion": false
+    },
+    "openfiles": {
+        "@show": false
+    },
+    "output": {
+        "@backgroundColor": "#1d1e1d"
+    },
+    "projecttree": {
+        "@showhidden": false
+    },
+    "tabs": {
+        "@asterisk": false,
+        "@show": true,
+        "editorTypes": {
+            "@class": "none",
+            "@exe": "none",
+            "@gz": "none",
+            "@o": "none",
+            "@pyc": "none",
+            "@raw": "none",
+            "@tar": "none",
+            "@zip": "none"
+        }
+    },
+    "terminal": {
+        "@backgroundColor": "#1d1e1d",
+        "@scrollback": 2000,
+        "@selectionColor": "#515d77"
+    }
+}
